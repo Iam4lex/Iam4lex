@@ -1,5 +1,5 @@
 ## Just a tech.
- - ✨ Fun fact: welcome to my world.
+ - ✨ Fun fact: This is my world.
 <br>
 
 <p align="center">

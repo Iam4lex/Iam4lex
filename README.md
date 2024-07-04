@@ -1,4 +1,4 @@
-## Just a tech
+## Just a tech.
  - ✨ Fun fact: welcome to my world.
 <br>
 

@@ -1,5 +1,6 @@
 ## Just a tech.
- - ✨ Fun fact: This is my world.
+ - ✨ Fun fact: Every day is a school to learn something new.
+ - Welcome to my world.
 <br>
 
 <p align="center">

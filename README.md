@@ -1,5 +1,5 @@
 ## Just a tech.
- - ✨ Fun fact: Every day is a school to learn something new.
+ - Fun fact: Every day is a school to learn something new.
  - Welcome to my world.
 <br>
 

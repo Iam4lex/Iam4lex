@@ -1,4 +1,4 @@
-## Just a tech.
+## Just a techie.
  - Fun fact: Every day is a school to learn something new.
  - Welcome to my world.
 <br>

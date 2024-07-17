@@ -1,6 +1,8 @@
 ## Just a techie.
  - Fun fact: Every day is a school to learn something new.
  - Welcome to my world.
+ - <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptkiddieke&label=Profile%20views&color=ED8B00&style=flat" alt="Austine" /> </p>
+
 <br>
 
 <p align="center">

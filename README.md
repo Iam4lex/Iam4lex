@@ -1,8 +1,10 @@
 ## Just a techie.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptkiddieke&label=Profile%20views&color=ED8B00&style=flat" alt="Austine" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptkiddieke&label=Profile%20views&color=ED8B00&style=flat" alt="Alex" /> </p>
 
  - Fun fact: Every day is a school to learn something new.
  - Welcome to my world.
+## My socials <br>
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-mwangi-7b121327a/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23691795/alex-mwangi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/scriptkiddie_ke)
 
 <br>
 

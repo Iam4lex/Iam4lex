@@ -1,4 +1,4 @@
-## Just a techie. | Certified Cloud Practitioner| Certified HCIA Security 
+## Just a techie.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scriptkiddieke&label=Profile%20views&color=ED8B00&style=flat" alt="Alex" /> </p>
 
  - Fun fact: Every day is a school to learn something new.

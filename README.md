@@ -33,12 +33,4 @@
 </div>
 
 
-# Hi there, I'm [Your Name] 👋
-
-## My GitHub Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=scriptkiddieke&theme=react-dark)
-
-## My GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scriptkiddieke&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=scriptkiddieke&theme=react-dark)

@@ -31,6 +31,3 @@
  &nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptkiddieke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="196" alt="languages graph" />
 </div>
-
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=scriptkiddieke&theme=react-dark)

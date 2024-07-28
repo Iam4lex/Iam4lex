@@ -31,3 +31,14 @@
  &nbsp;&nbsp;&nbsp;&nbsp;
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scriptkiddieke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="196" alt="languages graph" />
 </div>
+
+
+# Hi there, I'm [Your Name] 👋
+
+## My GitHub Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=scriptkiddieke&theme=react-dark)
+
+## My GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scriptkiddieke&show_icons=true&theme=radical)

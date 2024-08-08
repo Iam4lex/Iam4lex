@@ -4,6 +4,7 @@
 ```javascript
 // - Fun fact: Every day is a school to learn something new.
 // - Welcome to my world
+
 ScriptKiddie := EthicalHacker{
     about: about{
         name: "Alex Mwangi",

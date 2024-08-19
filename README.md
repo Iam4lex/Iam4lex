@@ -9,6 +9,7 @@ ScriptKiddie := EthicalHacker{
     about: about{
         name: "Alex Mwangi",
         role: "Junior Pentester",
+        certifications: "aws certified | cisco ethical hacker| foundational c# with microsof",
     },
     tech: []string{"SQL", "Python", "GO", "Javascript"},
 }

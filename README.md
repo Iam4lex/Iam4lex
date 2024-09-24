@@ -3,19 +3,6 @@
 
 ![Graphics](banner.jpeg)
 
-```javascript
-// - Cogito, ergo sum -> "I code, therefore I am".
-// - Welcome to my world
-
-Iam_Alex -> Penetration_Tester{
-    whoami: about_me{
-        name: "Alex Mwangi",
-        role: "Junior Pentester",
-        certifications: "aws certified | cisco ethical hacker| foundational c# with microsof",
-    },
-    technologies: []string{"SQL", "Python", "GO", "Javascript"},
-}
-```
 <div align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=iamalexmwangi&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" />

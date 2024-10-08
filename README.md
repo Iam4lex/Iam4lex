@@ -18,7 +18,7 @@
 // - Hack | Code | Gym | Sleep | Repeat
 // - Welcome to my world
 
-func main() {
+function main() {
     Iam4lex := EthicalHacker{
         Name:           "Iam4lex",
         Role:           "Hack | Code | Gym | Sleep",

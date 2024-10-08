@@ -11,3 +11,19 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Iam4lex&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&order=2" height="196" alt="languages graph" />
 </div>
+-->
+
+
+```javascript
+// - Hack | Code | Gym | Sleep | Repeat
+// - Welcome to my world
+
+func main() {
+    Iam4lex := EthicalHacker{
+        Name:           "Iam4lex",
+        Role:           "Hack | Code | Gym | Sleep",
+        Certifications: "AWS Certified | Cisco Ethical Hacker",
+        Tech:           []string{"SQL", "Python", "Java", "Javascript", "HTML", "CSS", "PHP"},
+    }
+
+

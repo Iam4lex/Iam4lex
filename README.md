@@ -10,7 +10,7 @@ function main() {
         Name:           "Iam4lex",
         Role:           "Hack | Code | Gym | Sleep",
         Certifications: "AWS Certified | Cisco Ethical Hacker",
-        Tech:           []string{"SQL", "Python", "Java", "Javascript", "HTML", "CSS", "PHP"
+        Tech:           []string{"SQL", "Python", "Java", "Javascript", "Bash"
     },
 }
 

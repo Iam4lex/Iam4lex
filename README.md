@@ -18,10 +18,10 @@
 
 function main() {
     Iam4lex := EthicalHacker{
-        Name:           "Iam4lex",
+        whoami:           "Iam4lex", "Lets hack together",
         Role:           "Hack | Code | Gym | Sleep",
         Certifications: "AWS Certified | Cisco Ethical Hacker",
-        Tech:           []string{"SQL", "Python", "Java", "Javascript", "Bash"
+        Tech:           []string{"SQL", "Python", "JS", "Bash"}
     },
 }
 

@@ -13,7 +13,7 @@
 <br>
 
 ```javascript
-// - Hack | Code | Gym | Anime | Gaming | Sleep | Repeat 😌📌 
+// - Hack | Code | Gym | Anime | Gaming | Sleep | Repeat 
 // - Welcome to my world
 
 function main() {

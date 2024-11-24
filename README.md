@@ -24,6 +24,3 @@ function main() {
         Tech:           []string{"SQL", "Python", "JS", "Bash"}
     },
 }
-
- 
- 

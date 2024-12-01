@@ -17,7 +17,7 @@
 // - Welcome to my world
 
 function main() {
-    Iam4lex := EthicalHacker{
+    Iam4lex := Penetration tester {
         whoami:         "Iam4lex", "Lets hack together",
         Role:           "Hack | Code | Gym | Anime | Sleep",
         Certifications: "AWS Certified | Cisco Ethical Hacker",

@@ -10,19 +10,4 @@
   </a> 
 </div>
 
----
-
-<br>
-
-```javascript
-// - Hack | Code | Gym | Anime | Gaming | Sleep | Repeat 
-// - Welcome to my world
-
-function main() {
-    Iam4lex := Penetration tester {
-        whoami:         "Iam4lex", "Lets hack together",
-        Role:           "Hack | Code | Gym | Anime | Sleep",
-        Certifications: "AWS Certified | Cisco Ethical Hacker",
-        Tech:           []string{"SQL", "Python", "JS", "Bash"}
-    },
-}
+---    
